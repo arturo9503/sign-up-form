@@ -1,0 +1,37 @@
+body {
+}
+
+#star{
+    filter: brightness(0) invert();
+    max-height: 100%;
+}
+
+.container{
+    display: flex;
+    height: 100vh;
+}
+
+.left{
+    width: 30vw;
+    background-image: url(images/night-sky.jpeg);
+}
+
+.right{
+    width: 70vw;
+    background-color: grey;
+}
+
+.logo-header{
+    background-color: black;
+    opacity: 0.7;
+    height: 10%;
+    margin-top: 80%;
+    display: flex;
+    align-items: center;
+}
+
+#header-text{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
