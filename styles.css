@@ -34,4 +34,17 @@ body {
     color: white;
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.header{
+    background-color: aliceblue;
+    padding-top: 10%;
+    height: 20vh;
+    font-size: 1.2rem;
+}
+
+#second-line{
+    font-style: italic;
+
 }
